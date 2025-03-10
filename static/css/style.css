@@ -1,0 +1,53 @@
+/* Global settings */
+body {
+    background-color: #f8f9fa;
+    padding-top: 30px;
+}
+
+.container {
+    max-width: 700px;
+    margin: auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #343a40;
+}
+
+h2, h3 {
+    color: #343a40;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.result-section {
+    margin-top: 30px;
+}
+
+.output-link {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+}
+
+.output-link:hover {
+    text-decoration: underline;
+}
